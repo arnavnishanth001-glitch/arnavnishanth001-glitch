@@ -1,12 +1,15 @@
 <div align="center">
 
-# Arnav Nishanth
-
-### IoT Developer · Frontend Developer · Problem Solver
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=220&section=header&text=Arnav%20Nishanth&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IoT%20Developer%20%C2%B7%20Frontend%20Developer%20%C2%B7%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
 Building real-world solutions at the intersection of hardware and the web.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Building+MediTrack+Lite+%E2%80%94+IoT+Health+Monitoring;IoT+%2B+Web+%2B+AI;Code.+Deploy.+Impact." alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/arnavnishanth001-glitch" target="_blank"><img src="https://komarev.com/ghpvc/?username=arnavnishanth001-glitch&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS"/></a>
+<a href="https://github.com/arnavnishanth001-glitch?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/arnavnishanth001-glitch?style=for-the-badge&color=00B4D8&labelColor=1a1a1a"/></a>
 
 </div>
 
@@ -28,30 +31,30 @@ Building real-world solutions at the intersection of hardware and the web.
 
 **Frontend**
 <br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 
 **Backend**
 <br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
 
 **Mobile**
 <br/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<a href="https://reactnative.dev" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 
 **AI / ML**
 <br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
 
 **IoT & Embedded**
 <br/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sensors-262626?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<a href="https://www.arduino.cc" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Embedded_C" target="_blank"><img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+<a href="https://www.raspberrypi.com" target="_blank"><img src="https://img.shields.io/badge/Sensors-262626?style=for-the-badge&logo=raspberrypi&logoColor=white"/></a>
 
 </div>
 
@@ -70,19 +73,25 @@ IoT-based health monitoring system that captures vitals via embedded sensors and
 
 <br/>
 
-## GitHub Stats
+## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arnavnishanth001-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavnishanth001-glitch&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<a href="https://github.com/arnavnishanth001-glitch?tab=repositories" target="_blank"><img src="https://github-stats-extended.vercel.app/api?username=arnavnishanth001-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="165"/></a>
+<a href="https://github.com/arnavnishanth001-glitch?tab=repositories" target="_blank"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arnavnishanth001-glitch&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/></a>
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavnishanth001-glitch&theme=tokyonight&hide_border=true" height="165"/>
+<a href="https://github.com/arnavnishanth001-glitch" target="_blank"><img src="https://streak-stats.demolab.com/?user=arnavnishanth001-glitch&theme=tokyonight&hide_border=true" height="165"/></a>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavnishanth001-glitch&theme=tokyo-night&hide_border=true" width="90%"/>
+<a href="https://github.com/arnavnishanth001-glitch" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavnishanth001-glitch&theme=tokyo-night&hide_border=true" width="90%"/></a>
+</div>
+
+<div align="center">
+<a href="https://github.com/arnavnishanth001-glitch" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=arnavnishanth001-glitch&theme=tokyonight&no-frame=true&row=1&column=7"/></a>
 </div>
 
 <br/>
@@ -104,6 +113,6 @@ IoT-based health monitoring system that captures vitals via embedded sensors and
 
 > "Build technology that actually solves problems."
 
-<img src="https://komarev.com/ghpvc/?username=arnavnishanth001-glitch&style=for-the-badge&color=00B4D8" alt="Profile views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=120&section=footer" width="100%"/>
 
 </div>
